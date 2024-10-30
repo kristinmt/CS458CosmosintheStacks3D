@@ -7,10 +7,15 @@
 - cosmos in the stacks web page: https://library.humboldt.edu/cosmos-stacks
 
 ### Tasks:
-1. Add modelviewer code to html webpage
-2. Edit modelviewer code to fit our needs (using documentation)
-3. Create annotations/textboxes (how?)
-4. Add updated model
+1. Add modelviewer code to html webpage (Alfredo/Sudi) (Nov 16)
+2. Edit modelviewer code to fit requiremnt 1 (using documentation) (Alfredo/Sudi) (Nov 16)
+3. Add updated model (Kristin) (Nov 16)
+4. Create test plans for all requirements, test requirement 1 on webpage (Thomas) (Nov 16)
+5. Create annotations/textboxes for requirement 2 (Alfredo,Sudi) (Nov 24)
+6. Create webpages or travel method for requirement 3 (Alfredo,Sudi) (Nov 24) 
+7. Add updated models and textbox text (Kristin) (Nov 24)
+8. Test all requirements (Thomas) (Dec 1)
+9. Make any final changes (all) (Dec 4)
 
 ### Functional Requirements:
 1. 3D Model Drag and Zoom
