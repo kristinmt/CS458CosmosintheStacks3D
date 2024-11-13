@@ -6,6 +6,9 @@
 - model shared assets: https://github.com/google/model-viewer
 - cosmos in the stacks web page: https://library.humboldt.edu/cosmos-stacks
 
+sphere hosted online (will expire after a few days):
+https://cdn.glitch.global/d2777de6-5f43-4676-af5a-d73d30ac087e/sphere.glb?v=1731520199524
+
 ### Tasks:
 1. Add modelviewer code to html webpage (Alfredo/Sudi) (Nov 16)
 2. Edit modelviewer code to fit requiremnt 1 (using documentation) (Alfredo/Sudi) (Nov 16)
