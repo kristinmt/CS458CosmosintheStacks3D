@@ -9,6 +9,9 @@
 sphere hosted online (will expire after a few days):
 https://cdn.glitch.global/d2777de6-5f43-4676-af5a-d73d30ac087e/sphere.glb?v=1731520199524
 
+demo website (will expire after a few days):
+https://superficial-observant-flight.glitch.me/
+
 ### Tasks:
 1. Add modelviewer code to html webpage (Alfredo/Sudi) (Nov 16)
 2. Edit modelviewer code to fit requiremnt 1 (using documentation) (Alfredo/Sudi) (Nov 16)
