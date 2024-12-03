@@ -148,6 +148,131 @@ text-align: center;
     pointer-events: none;
   }
 
+/* Birds of CA */
+.hotspotAviary {
+    background-color: red;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotWildlifeDept {
+    background-color: green;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotAudubon {
+    background-color: black;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotNaturalistBirds {
+    background-color: white;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotEBird {
+    background-color: purple;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotZooLibrary {
+    background-color: lime;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotVisitRedwoods {
+    background-color: magenta;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotWildlifeLibrary {
+    background-color: blue;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+/* Trees and Wildflowers of CA */
+.hotspotBotLibrary {
+    background-color: red;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotHerbarium {
+    background-color: blue;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotGreenhouse{
+    background-color: purple;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotBioDept {
+    background-color: black;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotNaturalist {
+    background-color: magenta;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotHumBot {
+    background-color: white;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+.hotspotWetlands {
+    background-color: lime;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+/* Geology */
 .hotspotLibrary{
     display: block;
     width: 20px;
