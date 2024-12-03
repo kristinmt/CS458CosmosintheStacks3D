@@ -1,0 +1,8 @@
+//all expire in 30 days)
+
+Marine Mammals: src="https://cdn.tinyglb.com/models/ac2045d089e14ab788e9a91e8b4a4a2f.glb"
+Birds: src="https://cdn.tinyglb.com/models/9d232917d86c4f5894d5278bf1670053.glb"
+Trees: src="https://cdn.tinyglb.com/models/322a083110004fd6a8ff3a40bf2a63a9.glb"
+Geology: src="https://cdn.tinyglb.com/models/ccb246326a79472f9d5718e1c5f22ddb.glb"
+Fish: src="https://cdn.tinyglb.com/models/3ede2b577201421a98720b056e1b991c.glb"
+Wildflowers: src="https://cdn.tinyglb.com/models/427d743182194e1b92e410e405387584.glb"
