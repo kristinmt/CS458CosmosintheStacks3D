@@ -331,6 +331,44 @@ text-align: center;
     border-radius: 10px;
     border: none;
   }
+/* Fishes Planet */
+
+.hotspotFishLibrary{
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    
+  }
+
+  .hotspotFishDept {
+    background-color: red;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+.hotspotDigCom {
+    background-color: orange;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+.hotspotHatch {
+    background-color: magenta;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
 
   .hotspot[slot="hotspot-foot"]:not([data-visible]) {
     background-color: transparent;
