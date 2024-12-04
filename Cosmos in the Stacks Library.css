@@ -117,6 +117,10 @@ html {
     -webkit-box-sizing: border-box;
 }
 
+.model-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
 
 .model-box {
             border: 2px solid #007BFF;
