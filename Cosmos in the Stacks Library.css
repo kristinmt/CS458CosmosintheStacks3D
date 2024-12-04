@@ -370,6 +370,62 @@ text-align: center;
     border: none;
   }
 
+/*Marine Mammal*/
+.hotspotWildlifeLibrary{
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    
+  }
+
+  .hotspotWildlifeDept {
+    background-color: red;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+.hotspotNOAA {
+    background-color: orange;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+.hotspotVertMus {
+    background-color: magenta;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+.hotspotMMSP {
+    background-color: #023020;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
+.hotspotTrinidadMus {
+    background-color: black;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+  }
+
   .hotspot[slot="hotspot-foot"]:not([data-visible]) {
     background-color: transparent;
     border: 3px solid blue;
